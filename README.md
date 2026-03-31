@@ -16,10 +16,6 @@ Sitio web desarrollado para la presentación de un emprendimiento de mosaicos de
 * CSS
 * JavaScript
 
-## Vista previa
-
-![Vista previa](./screenshot.png)
-
 ## Descripción
 
 Proyecto enfocado en el desarrollo de una página web tipo empresarial, con el objetivo de presentar información de manera clara, estructurada y visualmente atractiva.
